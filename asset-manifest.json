@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mythic-Quest-Game/static/css/main.ff9b21bd.chunk.css",
+    "main.js": "/Mythic-Quest-Game/static/js/main.20029e97.chunk.js",
+    "main.js.map": "/Mythic-Quest-Game/static/js/main.20029e97.chunk.js.map",
+    "runtime-main.js": "/Mythic-Quest-Game/static/js/runtime-main.ca1bc2d1.js",
+    "runtime-main.js.map": "/Mythic-Quest-Game/static/js/runtime-main.ca1bc2d1.js.map",
+    "static/js/2.7852cf13.chunk.js": "/Mythic-Quest-Game/static/js/2.7852cf13.chunk.js",
+    "static/js/2.7852cf13.chunk.js.map": "/Mythic-Quest-Game/static/js/2.7852cf13.chunk.js.map",
+    "index.html": "/Mythic-Quest-Game/index.html",
+    "precache-manifest.1060498ccd637a609d317c5b7446031f.js": "/Mythic-Quest-Game/precache-manifest.1060498ccd637a609d317c5b7446031f.js",
+    "service-worker.js": "/Mythic-Quest-Game/service-worker.js",
+    "static/css/main.ff9b21bd.chunk.css.map": "/Mythic-Quest-Game/static/css/main.ff9b21bd.chunk.css.map",
+    "static/js/2.7852cf13.chunk.js.LICENSE.txt": "/Mythic-Quest-Game/static/js/2.7852cf13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca1bc2d1.js",
+    "static/js/2.7852cf13.chunk.js",
+    "static/css/main.ff9b21bd.chunk.css",
+    "static/js/main.20029e97.chunk.js"
+  ]
+}
