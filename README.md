@@ -3,6 +3,8 @@
 This is the second project carried out during training at the Wild Code School.
 The trainer imitated the role of the client during this project.
 
+The game is available on computer only.
+
 ## Developer team
 
 - Malika Badaoui [Github profile](https://github.com/MalikaBadaoui)
